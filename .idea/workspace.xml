@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83020d2d-aaaf-472c-b894-debab8136176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Location.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/location/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/location/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/location/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locationdb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/locationdb.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/person/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/person/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/persondb.mv.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/persondb.trace.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/weather/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/src/main/java/com/example/weather/model/WeatherApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/weather/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="83020d2d-aaaf-472c-b894-debab8136176" name="Changes" comment="first1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,6 +166,27 @@
       <option name="presentableId" value="Default" />
       <updated>1722877903532</updated>
     </task>
+    <task id="LOCAL-00001" summary="first1">
+      <option name="closed" value="true" />
+      <created>1722892910770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722892910770</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first1">
+      <option name="closed" value="true" />
+      <created>1722892917343</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722892917343</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first1" />
+    <option name="LAST_COMMIT_MESSAGE" value="first1" />
   </component>
 </project>
