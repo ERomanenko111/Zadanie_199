@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83020d2d-aaaf-472c-b894-debab8136176" name="Changes" comment="first1" />
+    <list default="true" id="83020d2d-aaaf-472c-b894-debab8136176" name="Changes" comment="first1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/person/src/main/java/com/example/person/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/person/src/main/java/com/example/person/controller/PersonController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,31 +34,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LocationApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PersonApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WeatherApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.example.weather.WeatherApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.location [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.person [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.person [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.person [install].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Smart Tomcat..executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/JAVA/Zadanie_19/weather&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15429688&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LocationApplication.executor": "Run",
+    "Application.PersonApplication.executor": "Run",
+    "Application.WeatherApplication.executor": "Run",
+    "Application.com.example.weather.WeatherApplication.executor": "Run",
+    "Maven.location [clean,install].executor": "Run",
+    "Maven.person [clean,install].executor": "Run",
+    "Maven.person [clean].executor": "Run",
+    "Maven.person [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Smart Tomcat..executor": "Debug",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "jbr-17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/JAVA/Zadanie_201",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
-  <component name="RunManager" selected="Application.LocationApplication">
+}]]></component>
+  <component name="RunManager" selected="Application.WeatherApplication">
     <configuration name="LocationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.location.LocationApplication" />
       <module name="location" />
@@ -128,8 +131,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LocationApplication" />
         <item itemvalue="Application.PersonApplication" />
+        <item itemvalue="Application.LocationApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722892917343</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first1">
+      <option name="closed" value="true" />
+      <created>1722944544776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722944544776</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
